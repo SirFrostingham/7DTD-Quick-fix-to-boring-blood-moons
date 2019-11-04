@@ -10,3 +10,4 @@ To be clear, I just A/B compared the A16 gamestages.xml file from Guppycur's pas
 I updated 321 lines by hand (copy/paste), adding in the "<spawn group="ZombiesNight" num="xxx" maxAlive="yy"/></gamestage>" updates to each line from the original file.
 
 There could be more changes than that, but this is what is here as of 11/4/2019. :)
+  - Also note: I may update this file with more updates, as I find missing parts.
